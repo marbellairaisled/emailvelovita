@@ -1,0 +1,101 @@
+<mjml version="4.9.3">
+  <!-- Adding custom styles -->
+  <mj-style>
+
+  </mj-style>
+  <mj-body background-color="#fff">
+
+    <!-- Section: Header with logo and main title -->
+    <mj-section background-color="#DF703D" background-repeat="repeat" padding="20px" text-align="center">
+      <mj-column vertical-align="top">
+        <!-- Company Logo -->
+        <mj-image align="center" padding="0px 0px 0px 0px" src="https://scontent.fmex16-2.fna.fbcdn.net/v/t1.15752-9/436308013_773757798230658_8355358722154405657_n.png?stp=dst-png_s2048x2048&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8E0eB5bB0qkQ7kNvgG8TFQ2&_nc_ht=scontent.fmex16-2.fna&oh=03_Q7cD1QGTn7UD6oRrvSVX1dqT0RxpttHE4rXv3I2XZr264wa_9w&oe=667879CB" width="128px"></mj-image>
+        <!-- Main Heading -->
+        <mj-text align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="30px" line-height="35px" padding="10px 10px 0px 10px">This Week's</mj-text>
+        <!-- Subheading -->
+        <mj-text font-weight="bold" align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="35px" line-height="35px" padding="10px 10px 0px 10px">Updates & Events!</mj-text>
+        <!-- Date Range -->
+        <mj-text align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="15px" line-height="35px" padding="10px 10px 10px 10px">April 22nd to the 28th</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section: Quote -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="25%">
+        <!-- Quote Image -->
+        <mj-image border="#DF703D" width="165px" src="https://ucb62648a4ef046d29c904e642d1.previews.dropboxusercontent.com/p/thumb/ACSb4Mqpm4kvlZd-RzDBr8u3QBoOLrrvBpBC9wDqOcMSiweGuxFQV-q-XvfeS_nWiGaiT3wTknc7_sINjTXXRCGLovaZv7DxTzLdbYPjsL-qvxadvHh8rMzOS1o5qkAPhkFuP6B28YIaPpoIz65RCS5ZSvCqjXrHr3VbaPqBAxQ2hxsT61EeydUGOV7nQk4JSUPP5AlmKosjC1So5IktUqiBS764uqrJlQBip4qoAonz7CrRACu5t-iIIZWRKrCyzxiI28Rqk5_1WSE010c6UMFWM9TMd9F4nQh7KQr2t7kv-vw4EeEOSExaenin2q-vtuKke10PmMSGr-kgWLPHxrpNLKV0FkgYkAueLXn_pLs1tnd1u2B3TULSf3plSALFZ42HYm06MqmY-qax7Wn29G5FEXpr_XE14E7SdxBmWrDprZCKvJYCIVf0SWsw4oR8rNPeXBxTncsoWXuyNxJqtd7ryvjVzlrUfNmUU1OzPGx9qPBVMk3Yr0vjlFUzQz-a1wV99n64QFZGPoT_JxRSnvWZ/p.png"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <!-- Quote Text -->
+        <mj-text color="#3F3F3F" font-family="Montserrat, sans-serif;" font-size="13px" align="justify" line-height="28px" padding="10px 10px 0px 10px">“The two most important ingredients necessary to become an elite relationship builder are communication and connection.”</mj-text>
+        <!-- Quote Author -->
+        <mj-text color="#DF703D" font-family="Montserrat, sans-serif;" font-size="13px" align="justify">- Kosta Gara, CEO</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section: Promotion -->
+    <mj-section padding="30px" background-color="#65B2E8" background-url="https://ucef0f612f93ceb3238984224c52.previews.dropboxusercontent.com/p/thumb/ACRw5O4gP2Iwj2SE4cE97EAiE1Vila7N8yu7bGVgzQOntd4YcHyzMLY5nko3nCZU0l5fY55GcW9xBF7W55PW5rq1cfAt4PqeMsA3pJUpw6_Eo6gxu3wx0hx351Y1zUaz8zE7YyoV9Gs9dQ_7e2ku0NU5iEpXkNjf9zV0vYo6T-FtLMSMz1ni6LQhpjJhfdqSk0nBDmPL8K94brw9JzCZE6966-yxf3w__v9P15ePcVD4zmC8bP58J7F1fS3c-4a4V9VHZqlW6QlUF0UmBZ9TF8YAr9JrzQeGtzfeOCpC9uERFQ/p.png" background-size="80%" padding="35px" background-repeat="no-repeat">
+      <mj-column width="95%">
+        <!-- Promotion Text -->
+        <mj-text container-background-color="#65B2E8" font-weight="bold" color="#fff" font-family="Montserrat, sans-serif;" font-size="17px" align="center" line-height="28px" padding="10px 10px 0px 10px">Last week of our Spring promo! Buy ANY box and get a Lite Version for FREE until April 14th!</mj-text>
+        <!-- Promotion Button -->
+        <mj-button background-color="#DF703D" color="white" padding="20px 20px 30px 20px" border-radius="20px" href="https://velovita.com/es/">Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section: Anniversary Event -->
+    <mj-section>
+      <mj-column vertical-align="middle" width="50%">
+        <!-- Event Image -->
+        <mj-image src="https://uc423453cbafbc328ff87c9dcc19.previews.dropboxusercontent.com/p/thumb/ACQvVgFSuLjJ5lNo7Lu1bWzzqd5vTUZEmutB1KgRU6svTtxoSnnXqOP-njsPXXae_JDuHo-IyU6F_sVMCj6p9n6Nf4lN46DaPTySd5tODGihWVaI4Bu5-EbyzbyFtuEdAdssd8_-lKkWmsoQopIRi3SyKSVIVvDRIYZKXbJ5qnLdBWRsnPfwvwPqDUXvOk90vngomW0LeHLaQuIOXXVJotR5JcZSOKWKvHEffuntIrKTrp4l8s5TfONNP7kBIZrO0raqr0C6RQsZ4WYHBVA03ozcZv145hHUZuLXaOvsW2zZwxta5-6bAljU-Yn_ZXz8c945ESneAh3YMo1yhOOXLskkPHJ0BxpIRozSzmrgdS3C8Axtsvf10hXBvJvJfnf_woU6uZ1ML_q2rUdyRafz9NHjK1n-DeQ9pnX-sf0YW2nLeQ4K_ndBY0xZWrbkQ8gmBlWZU3FvuTljWNTc_2ogjt2DYVezJSa2ka-cXuFqGhQI0JxqYg9jhRnBocw50nUalUhdDaftRWtNaW4uNaPbSZx4IDeFdrr5wSy9QIqLNKi8aUaKowt3cgtU6tw39tytAFURMplGfx9Jh1A4Xi-e7NBbeufLRp63Qsw0UlyocDCD27ivR9D6Q_Cl0u3ptGHw-bBYN5ZDWAcOGnqCn26jiAkhU5olw9r20nXZ3XHuqkRYABeJZQQX7lg_/p.png" alt="anniversary" border="none" align="center"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle" width="50%">
+        <!-- Event Title -->
+        <mj-text font-weight="bold" color="#DF703D" font-family="Montserrat, sans-serif;" font-size="25px" line-height="40px" align="left" padding="0px 25px 0px 25px">Velovita Anniversary!</mj-text>
+        <!-- Event Description -->
+        <mj-text color="#3F3F3F" font-family="Montserrat, sans-serif;" font-size="15px" line-height="28px" padding="10px 25px 20px 25px" align="left">Take advantage of our special offers from April 22nd to 28th. 30% off Zlem!</mj-text>
+        <!-- Event Button -->
+        <mj-button background-color="#DF703D" font-family="Montserrat, sans-serif;" color="white" padding="10px 25px" font-weight="bold" border-radius="10px" href="https://velovita.com/es/" align="left">Shop Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section: Product Promo -->
+    <mj-section background-color="#DF703D" background-repeat="repeat" padding="30px" text-align="center">
+      <mj-column>
+        <!-- Promo Image -->
+        <mj-image border="none" src="https://velovita.com/web/content/7986f9d2-4e5b-49a8-88a8-1c1377811923"></mj-image>
+        <!-- Promo Title -->
+        <mj-text font-weight="bold" align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="25px" line-height="35px" padding="10px 10px 0px 10px">Today's product is Zlem!</mj-text>
+        <!-- Promo Description -->
+        <mj-text align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="15px" line-height="25px" padding="10px 10px 10px 10px">What is Zlem? Zlem is a powerhouse packed with tons of benefits! Sleep and Slim all-in-one!</mj-text>
+        <!-- Promo Button -->
+        <mj-button background-color="#ffffff" color="#DF703D" font-family="Montserrat, sans-serif;" padding="10px 25px" font-weight="bold" border-radius="10px" href="https://velovita.com/es/" align="center">Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section: Additional Updates -->
+    <mj-section padding="30px" background-color="#F1F1F1">
+      <mj-column>
+        <!-- Additional Updates Title -->
+        <mj-text font-weight="bold" align="center" color="#000000" font-family="Montserrat, sans-serif;" font-size="22px" line-height="35px" padding="10px 10px 10px 10px">Additional Updates</mj-text>
+        <!-- Update 1 -->
+        <mj-text align="center" color="#3F3F3F" font-family="Montserrat, sans-serif;" font-size="15px" line-height="25px" padding="10px 10px 10px 10px">Our new Flavor Fizz is coming soon! Stay tuned for more details.</mj-text>
+        <!-- Update 2 -->
+        <mj-text align="center" color="#3F3F3F" font-family="Montserrat, sans-serif;" font-size="15px" line-height="25px" padding="10px 10px 10px 10px">Join our webinar on April 25th to learn more about our products and benefits.</mj-text>
+        <!-- Update 3 -->
+        <mj-text align="center" color="#3F3F3F" font-family="Montserrat, sans-serif;" font-size="15px" line-height="25px" padding="10px 10px 10px 10px">Connect with us on social media for the latest updates and promotions!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section: Footer -->
+    <mj-section background-color="#DF703D" padding="20px" text-align="center">
+      <mj-column>
+        <!-- Footer Text -->
+        <mj-text align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="13px" line-height="20px" padding="10px 10px 10px 10px">You are receiving this email because you opted in on our website.</mj-text>
+        <!-- Unsubscribe Link -->
+        <mj-text align="center" color="#ffffff" font-family="Montserrat, sans-serif;" font-size="13px" line-height="20px" padding="10px 10px 10px 10px"><a href="#" style="color: #ffffff; text-decoration: none;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
